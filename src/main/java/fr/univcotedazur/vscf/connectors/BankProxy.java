@@ -1,7 +1,7 @@
 package fr.univcotedazur.vscf.connectors;
 
-import fr.univcotedazur.vscf.interfaces.Bank;
 import fr.univcotedazur.vscf.entities.Customer;
+import fr.univcotedazur.vscf.interfaces.Bank;
 import org.springframework.stereotype.Component;
 
 @Component
